@@ -38,13 +38,17 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #ebe8d666;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
+}
+
+header {
+	background-image: url('../public/images/bannerimage.jpg');
 }
 
 header .nav {
@@ -70,7 +74,7 @@ header .nav {
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
-	border-top: 5px solid #696969;
+	border-top: 5px solid #beb8b8;
 	border-radius: 0 0 5px 5px;
 	background-color: #696969;
 	color: white;
@@ -86,7 +90,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #83817d;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -95,14 +99,14 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #2a2929;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #e1dcd0;
 }
 
 .slider-tab {
@@ -120,7 +124,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: rgb(234, 231, 231);
 	overflow: hidden;
 }
 
@@ -129,7 +133,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: rgb(121, 114, 114);
 	text-align: center;
 }
 
@@ -139,7 +143,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #b8c9ca;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -156,7 +160,7 @@ header h1 {
 }
 
 .foto div:after {
-	color: #333;
+	color: rgb(39, 36, 36);
 	font-size: 25px;
 	content: attr(title);
 	position: relative;
@@ -245,7 +249,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: #a1936e !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -294,14 +298,14 @@ header h1 {
 .bars li {
 	position: relative;
 	margin-bottom: 60px;
-	background: #ccc;
+	background: rgb(230, 225, 225);
 	height: 42px;
 	border-radius: 3px;
 }
 
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-	color: #313131;
+	color: #837171;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-weight: normal;
@@ -315,7 +319,7 @@ header h1 {
 	top: 0;
 	margin: 0;
 	padding-right: 24px;
-	background: #313131;
+	background: #704646;
 	display: inline-block;
 	height: 42px;
 	line-height: 42px;
@@ -389,7 +393,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #2a2828;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -402,7 +406,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: rgb(33, 29, 29);
 	text-align: center;
 }
 
@@ -414,7 +418,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #252525;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
