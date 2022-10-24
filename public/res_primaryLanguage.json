@@ -37,7 +37,7 @@
       {
         "title": "Gallery of Horns",
         "startDate": "2022",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "This project was completed in my first week of my 301 course. I created this wonderful website using React and netlify. I have a great sense of satifaction and fulfillment upon completion of this website. I've earned A ten out of ten as my grade :)",
         "images": [
           "images/portfolio/horns/animalhorns.jpg",
           "images/portfolio/horns/animalhorn2.jpg"
@@ -57,7 +57,7 @@
       {
         "title": "Odd Duck Products",
         "startDate": "2022",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "One of the first apps I was working on in my 201 courses at codefellows. I had to develop an application based on product votes and views. Upon clicking on your favorite product twenty five times it will render and a total. This was a challenging project for we had to use only html, css and javascript. I've learned a lot!",
         "images": [
           "images/portfolio/products/product.jpg",
           "images/portfolio/products/product2.jpg"
